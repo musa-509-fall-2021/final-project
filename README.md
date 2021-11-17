@@ -11,7 +11,7 @@ Expectations:
 * Queries to build reports are simple (no complex joins, limited sub-queries and CTEs); data should be pre-transformed for the domain.
 * Reports will be hosted in the cloud at a URL that can be publicly accessed.
 
-This project may be done individually or in a team of up to 3 students.
+This project may be done individually or in a team of up to 3 students. You can see my sample final project [here on GitHub](https://github.com/musa-509-fall-2021/final-project-sample).
 
 ## Table of Contents
 
