@@ -1,4 +1,4 @@
-# Proposal: in Chicago
+# Proposal: Seeking a better home in Chicago
 
 **By**:
 * Sisun Cheng, sisunc@upenn.edu
@@ -41,4 +41,7 @@ Chicago data portal
 Size: 99 rows, 5 columns
 We currently have access to this data.
 https://data.cityofchicago.org/Facilities-Geographic-Boundaries/Boundaries-Neighborhoods/bbvz-uum9
+
+## Wireframes
+
 
