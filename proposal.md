@@ -12,35 +12,45 @@ We choose indicators from three dimensions, respectively safety, transportation,
 
 ## Data sources
 
- - 1.  Crime data one year prior to present in Chicago 
-Chicago data portal
+ - 1.  [Crime data one year prior to present](https://data.cityofchicago.org/api/views/dfnk-7re6/rows.json?accessType=DOWNLOAD)
+
+       Chicago data portal
+       
        Size: 202882 rows, 30 columns
+       
        We currently have access to this data.
-       https://data.cityofchicago.org/api/views/dfnk-7re6/rows.json?accessType=DOWNLOAD
 
-- 2.	Public transit station 
+- 2.	Public transit stations
+
 Chicago data portal
+
 We currently have access to this data
-Bus stops: https://data.cityofchicago.org/Transportation/CTA-Bus-Stops-Shapefile/pxug-u72f (Size: 10833 rows, 14 columns)
-Metra stations: https://data.cityofchicago.org/Transportation/Metra-Stations/nqm8-q2ym (Size: 247 rows, 24 columns)
 
-- 3.	Grocery data
+[Bus stops] (https://data.cityofchicago.org/Transportation/CTA-Bus-Stops-Shapefile/pxug-u72f) (Size: 10833 rows, 14 columns)
+[Metra stations] (https://data.cityofchicago.org/Transportation/Metra-Stations/nqm8-q2ym) (Size: 247 rows, 24 columns)
+
+- 3.	[Grocery data](https://data.cityofchicago.org/Health-Human-Services/Grocery-Store-Status-Map/rish-pa6g)
+       
        Chicago data portal
+
 Size: 265 rows, 6 columns.
+       
        We currently have access to this data.
-https://data.cityofchicago.org/Health-Human-Services/Grocery-Store-Status-Map/rish-pa6g
 
-- 4.	restaurants data
+- 4.	[Restaurants data](https://data.cityofchicago.org/Health-Human-Services/Food-Inspections-Dashboard/2bnm-jnvb)
        Chicago data portal
+       
 Size: 228176 rows, 17 columns
-We currently have access to this data.
-https://data.cityofchicago.org/Health-Human-Services/Food-Inspections-Dashboard/2bnm-jnvb
 
-- 5.	Chicago neighborhood 
-Chicago data portal
-Size: 99 rows, 5 columns
 We currently have access to this data.
-https://data.cityofchicago.org/Facilities-Geographic-Boundaries/Boundaries-Neighborhoods/bbvz-uum9
+
+- 5.	[Chicago neighborhood data](https://data.cityofchicago.org/Facilities-Geographic-Boundaries/Boundaries-Neighborhoods/bbvz-uum9)
+
+Chicago data portal
+
+Size: 99 rows, 5 columns
+
+We currently have access to this data.
 
 ## Wireframes
 
