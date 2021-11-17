@@ -12,7 +12,7 @@ We choose indicators from three dimensions, respectively safety, transportation,
 
 ## Data sources
 
- -   [Crime data one year prior to present](https://data.cityofchicago.org/api/views/dfnk-7re6/rows.json?accessType=DOWNLOAD) -- Chicago data portal
+ -   **[Crime data one year prior to present]**(https://data.cityofchicago.org/api/views/dfnk-7re6/rows.json?accessType=DOWNLOAD) -- Chicago data portal
        
        Size: 202882 rows, 30 columns
        
@@ -23,7 +23,8 @@ We choose indicators from three dimensions, respectively safety, transportation,
        We currently have access to this data
 
        [Bus stops](https://data.cityofchicago.org/Transportation/CTA-Bus-Stops-Shapefile/pxug-u72f) (Size: 10833 rows, 14 columns)
-       [Metra stations](https://data.cityofchicago.org/Transportation/Metra-Stations/nqm8-q2ym) (Size: 247 rows, 24 columns)
+       
+       [Metro stations](https://data.cityofchicago.org/Transportation/Metra-Stations/nqm8-q2ym) (Size: 247 rows, 24 columns)
 
  - 	 [Grocery data](https://data.cityofchicago.org/Health-Human-Services/Grocery-Store-Status-Map/rish-pa6g) -- Chicago data portal
 
