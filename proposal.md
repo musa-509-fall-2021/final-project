@@ -12,13 +12,13 @@ We choose indicators from three dimensions, respectively safety, transportation,
 
 ## Data sources
 
- -   **[Crime data one year prior to present]**(https://data.cityofchicago.org/api/views/dfnk-7re6/rows.json?accessType=DOWNLOAD) -- Chicago data portal
+ -   **[Crime data one year prior to present](https://data.cityofchicago.org/api/views/dfnk-7re6/rows.json?accessType=DOWNLOAD)** -- Chicago data portal
        
        Size: 202882 rows, 30 columns
        
        We currently have access to this data.
 
- - 	 Public transit stations -- Chicago data portal
+ - 	 **Public transit stations** -- Chicago data portal
 
        We currently have access to this data
 
@@ -26,19 +26,19 @@ We choose indicators from three dimensions, respectively safety, transportation,
        
        [Metro stations](https://data.cityofchicago.org/Transportation/Metra-Stations/nqm8-q2ym) (Size: 247 rows, 24 columns)
 
- - 	 [Grocery data](https://data.cityofchicago.org/Health-Human-Services/Grocery-Store-Status-Map/rish-pa6g) -- Chicago data portal
+ - 	 **[Grocery data](https://data.cityofchicago.org/Health-Human-Services/Grocery-Store-Status-Map/rish-pa6g)** -- Chicago data portal
 
        Size: 265 rows, 6 columns.
        
        We currently have access to this data.
 
- - 	[Restaurants data](https://data.cityofchicago.org/Health-Human-Services/Food-Inspections-Dashboard/2bnm-jnvb) -- Chicago data portal
+ - 	**[Restaurants data](https://data.cityofchicago.org/Health-Human-Services/Food-Inspections-Dashboard/2bnm-jnvb)** -- Chicago data portal
        
        Size: 228176 rows, 17 columns
 
        We currently have access to this data.
 
- - 	[Chicago neighborhood data](https://data.cityofchicago.org/Facilities-Geographic-Boundaries/Boundaries-Neighborhoods/bbvz-uum9) -- Chicago data portal
+ - 	**[Chicago neighborhood data](https://data.cityofchicago.org/Facilities-Geographic-Boundaries/Boundaries-Neighborhoods/bbvz-uum9)** -- Chicago data portal
 
        Size: 99 rows, 5 columns
 
@@ -46,4 +46,4 @@ We choose indicators from three dimensions, respectively safety, transportation,
 
 ## Wireframes
 
-
+Wireframes of the webpages of our project
