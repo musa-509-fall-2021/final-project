@@ -20,37 +20,38 @@ We choose indicators from three dimensions, respectively safety, transportation,
        
        We currently have access to this data.
 
-- 2.	Public transit stations
+ - 2.	 Public transit stations
 
-Chicago data portal
+       Chicago data portal
 
-We currently have access to this data
+       We currently have access to this data
 
-[Bus stops] (https://data.cityofchicago.org/Transportation/CTA-Bus-Stops-Shapefile/pxug-u72f) (Size: 10833 rows, 14 columns)
-[Metra stations] (https://data.cityofchicago.org/Transportation/Metra-Stations/nqm8-q2ym) (Size: 247 rows, 24 columns)
+       [Bus stops](https://data.cityofchicago.org/Transportation/CTA-Bus-Stops-Shapefile/pxug-u72f) (Size: 10833 rows, 14 columns)
+       [Metra stations](https://data.cityofchicago.org/Transportation/Metra-Stations/nqm8-q2ym) (Size: 247 rows, 24 columns)
 
-- 3.	[Grocery data](https://data.cityofchicago.org/Health-Human-Services/Grocery-Store-Status-Map/rish-pa6g)
+ - 3.	 [Grocery data](https://data.cityofchicago.org/Health-Human-Services/Grocery-Store-Status-Map/rish-pa6g)
        
        Chicago data portal
 
-Size: 265 rows, 6 columns.
+       Size: 265 rows, 6 columns.
        
        We currently have access to this data.
 
-- 4.	[Restaurants data](https://data.cityofchicago.org/Health-Human-Services/Food-Inspections-Dashboard/2bnm-jnvb)
+ - 4.	[Restaurants data](https://data.cityofchicago.org/Health-Human-Services/Food-Inspections-Dashboard/2bnm-jnvb)
+       
        Chicago data portal
        
-Size: 228176 rows, 17 columns
+       Size: 228176 rows, 17 columns
 
-We currently have access to this data.
+       We currently have access to this data.
 
-- 5.	[Chicago neighborhood data](https://data.cityofchicago.org/Facilities-Geographic-Boundaries/Boundaries-Neighborhoods/bbvz-uum9)
+ - 5.	[Chicago neighborhood data](https://data.cityofchicago.org/Facilities-Geographic-Boundaries/Boundaries-Neighborhoods/bbvz-uum9)
 
-Chicago data portal
+       Chicago data portal
 
-Size: 99 rows, 5 columns
+       Size: 99 rows, 5 columns
 
-We currently have access to this data.
+       We currently have access to this data.
 
 ## Wireframes
 
